@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="constElById" value="const $value$ = document.getElementById('$value$');" description="Create Cosnt by document.getElementById" toReformat="true" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
