@@ -33,7 +33,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="jsjquery" value="&lt;script&#10;  src=&quot;https://code.jquery.com/jquery-3.3.1.js&quot;&#10;  integrity=&quot;sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=&quot;&#10;  crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="jsjquery" value="&lt;script&#10;  src=&quot;https://code.jquery.com/jquery-3.3.1.js&quot;&#10;  integrity=&quot;sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=&quot;&#10;  crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
