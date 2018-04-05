@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="work" type="JSON" />
       <mapping pattern="config" type="JavaScript" />
     </extensionMap>
   </component>
