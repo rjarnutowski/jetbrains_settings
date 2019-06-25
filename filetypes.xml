@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="work" type="JSON" />
+      <mapping pattern="src/Screens/Login.js" type="JSX Harmony" />
       <mapping pattern="config" type="JavaScript" />
     </extensionMap>
   </component>
