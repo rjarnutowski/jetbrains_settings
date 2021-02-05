@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="example" type="AUTO_DETECTED" />
       <mapping pattern="work" type="JSON" />
       <mapping pattern="src/Screens/Login.js" type="JSX Harmony" />
       <mapping pattern="config" type="JavaScript" />
